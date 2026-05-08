@@ -90,3 +90,12 @@ User Request
 
 &#x20;Monitoring \& Recovery Layer (Upcoming)
 
+
+autoops-self-healing-system/
+│
+├── app/
+│   └── main.py
+│
+├── Dockerfile
+├── docker-compose.yml
+├── README.md
